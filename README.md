@@ -1,10 +1,11 @@
-### Hello, I'm Taji Abdullah
+Hi, welcome to my Github Portfolio!
 
 ---
 
 Im a software engineer that specializes in Android development. Although Android development has been my technical passion, I also expand into other areas to satisfiy my curiosity and drive to learn new things.
 
 - 🔭 I’m currently working on an Android app that controls drones.
+- 🌱 I’m currently learning Cyber Security fundamentals.
 
 <details>
 <summary>Android Portfolio</summary>
@@ -20,4 +21,10 @@ Im a software engineer that specializes in Android development. Although Android
 <li><a href="https://play.google.com/store/apps/details?id=com.panera.bread">Panera Bread</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.seatboost.ma_v2">SeatBoost</a></li>
 </ul>
+</details>
+
+<details>
+<summary>Cyber Security Portfolio</summary>
+<br>
+Comming Soon...
 </details>
