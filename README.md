@@ -2,16 +2,13 @@
   <img src="/code.gif" alt="Code Function" style="width: 100%;">
 </div>
 
-
-
-Hi, welcome to my Github Portfolio!
+<h1>Welcome to my Github Portfolio!</h1>
 
 ---
 
-Im a software engineer that specializes in Android development. Although Android development has been my technical passion, I also expand into other areas to satisfiy my curiosity and drive to learn new things.
+<p>Im a software engineer that specializes in Android development. Although Android development has been my technical 
+passion, I also expand into other areas to satisfiy my curiosity and drive to learn new things.</p>
 
-- 🔭 I’m currently working on an Android app that controls drones.
-- 🌱 I’m currently learning Cyber Security fundamentals.
 
 <details>
 <summary>Android Portfolio</summary>
