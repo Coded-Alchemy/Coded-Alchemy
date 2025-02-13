@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="/code.gif" alt="Code Function" style="width: 100%;">
+</div>
+
+
+
 Hi, welcome to my Github Portfolio!
 
 ---
