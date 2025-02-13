@@ -5,7 +5,7 @@
 <h1>Welcome to my Github Portfolio!</h1>
 
 <p>Im a software engineer that specializes in Android development. Although Android development has been my technical 
-passion, I also expand into other areas to satisfiy my curiosity and drive to learn new things.</p>
+passion, I also expand into other areas to satisfy my curiosity and drive to learn new things.</p>
 
 ---
 
