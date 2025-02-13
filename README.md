@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/code.gif" alt="Code Function" style="width: 100%;">
+  <img src="/img/code.gif" alt="Code Function" style="width: 100%;">
 </div>
 
 <h1>Welcome to my Github Portfolio!</h1>
