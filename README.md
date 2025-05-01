@@ -32,3 +32,6 @@ passion, I also expand into other areas to satisfy my curiosity and drive to lea
     </ul>
 </details>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Coded-Alchemy">
+</p>
