@@ -8,6 +8,15 @@ passion, I also expand into other areas to satisfy my curiosity and drive to lea
 ---
 
 <details>
+    <summary>Cyber Security Portfolio</summary>
+    <br>
+    <ul>
+        <li><a href="https://github.com/Coded-Alchemy/HashCatnip">Hash Catnip</a>: A Hashcat automation CLI utility.</li>
+        <li><a href="https://github.com/Coded-Alchemy/CyberSecTools">Python Commandline Tools</a></li>
+    </ul>
+</details>
+
+<details>
     <summary>Android Portfolio</summary>
     <h3>Projects</h3>
     <ul>
@@ -20,15 +29,6 @@ passion, I also expand into other areas to satisfy my curiosity and drive to lea
         <li><a href="https://play.google.com/store/apps/details?id=com.myhealthplanner.mobile">My Health Planner</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.panera.bread">Panera Bread</a></li>
         <li><a href="https://play.google.com/store/apps/details?id=com.seatboost.ma_v2">SeatBoost</a></li>
-    </ul>
-</details>
-
-<details>
-    <summary>Cyber Security Portfolio</summary>
-    <br>
-    <ul>
-        <li><a href="https://github.com/Coded-Alchemy/HashCatnip">Hash Catnip</a>: A Hashcat automation CLI utility.</li>
-        <li><a href="https://github.com/Coded-Alchemy/CyberSecTools">Python Commandline Tools</a></li>
     </ul>
 </details>
 
