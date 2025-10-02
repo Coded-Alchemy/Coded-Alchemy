@@ -11,9 +11,9 @@ passion, I also expand into other areas to satisfy my curiosity and drive to lea
     <summary>Cybersecurity Portfolio</summary>
     <br>
     <ul>
-        <li><a href="https://github.com/Coded-Alchemy/Cybersecurity_Portfolio">Cybersecurity Portfolio</a>: Reports, documentation, and diagrams.</li>
-        <li><a href="https://github.com/Coded-Alchemy/HashCatnip">Hash Catnip</a>: A Hashcat automation CLI utility.</li>
-        <li><a href="https://github.com/Coded-Alchemy/CyberSecTools">Python Commandline Tools</a></li>
+        <li><a href="https://github.com/Coded-Alchemy/Cybersecurity_Portfolio">Cybersecurity Portfolio</a>: Reports, documentation, and diagrams Ive created.</li>
+        <li><a href="https://github.com/Coded-Alchemy/HashCatnip">Hash Catnip</a>: A Hashcat automation CLI utility I created using Python.</li>
+        <li><a href="https://github.com/Coded-Alchemy/CyberSecTools">Python Commandline Tools</a></li>: Varius tools I created such as port scanners, enumeration and hashing tools.
     </ul>
 </details>
 
