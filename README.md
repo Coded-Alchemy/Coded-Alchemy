@@ -8,9 +8,10 @@ passion, I also expand into other areas to satisfy my curiosity and drive to lea
 ---
 
 <details>
-    <summary>Cyber Security Portfolio</summary>
+    <summary>Cybersecurity Portfolio</summary>
     <br>
     <ul>
+        <li><a href="https://github.com/Coded-Alchemy/Cybersecurity_Portfolio">Cybersecurity Portfolio</a>: Reports, documentation, and diagrams.</li>
         <li><a href="https://github.com/Coded-Alchemy/HashCatnip">Hash Catnip</a>: A Hashcat automation CLI utility.</li>
         <li><a href="https://github.com/Coded-Alchemy/CyberSecTools">Python Commandline Tools</a></li>
     </ul>
