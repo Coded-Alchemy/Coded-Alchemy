@@ -40,7 +40,7 @@ $ ./taji --skills
 
 ---
 
-## `> ls ./tech-stack`
+## `> ls /tech-stack`
 
 <div align="center">
 
@@ -80,7 +80,7 @@ $ ./taji --skills
 
 ---
 
-## `> ls ./projects`
+## `> ls /projects`
 
 <table>
 <tr>
@@ -145,7 +145,7 @@ This background gave me a strong foundation in software architecture, large-scal
 
 ---
 
-## `> cat ./github-stats`
+## `> cat github-stats.txt`
 
 <div align="center">
 
