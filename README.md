@@ -28,8 +28,8 @@ I design and build **security detection pipelines, SIEM content, and SOC automat
 
 With a foundation in **Android software engineering**, I bring battle-tested software architecture, debugging, and automation skills into the cybersecurity space — focused on **Detection Engineering, Threat Detection, and Security Infrastructure**.
 
+## `> ./taji --skills`
 ```bash
-$ ./taji --skills
 [+] Detection Engineering
 [+] Detection-as-Code Pipelines
 [+] SIEM Engineering (Splunk / SPL)
