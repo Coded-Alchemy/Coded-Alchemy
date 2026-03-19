@@ -86,22 +86,22 @@ With a foundation in **Android software engineering**, I bring battle-tested sof
 <tr>
 <td width="50%">
 
+### 🏠 SOC Home Lab
+Full SOC environment simulating **threat detection, incident response, adversary emulation, and Detection-as-Code** using industry-standard tools.
+
+`Splunk` `pfSense` `VMware` `MITRE ATT&CK` `Sigma` `SOC`
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/Coded-Alchemy/SOC-Home-Lab)
+
+</td>
+<td width="50%">
+
 ### 🔎 Detections-as-Code Pipeline
 CI/CD pipeline that **auto-deploys Splunk detections, macros, and correlation searches** via Terraform and GitHub Actions.
 
 `Terraform` `GitHub Actions` `Splunk` `Detection Engineering`
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/Coded-Alchemy/Detections_as_Code)
-
-</td>
-<td width="50%">
-
-### 📊 Cybersecurity Portfolio
-Structured SOC lab environment with network architecture diagrams, detection writeups, and threat simulation reports.
-
-`SOC` `Documentation` `Threat Simulation` `Lab`
-
-[![Repo](https://img.shields.io/badge/VIEW_REPO-00ff41?style=flat-square&logo=github&logoColor=black)](https://github.com/Coded-Alchemy/Cybersecurity_Portfolio)
 
 </td>
 </tr>
